@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aandhikads
 - 👀 I’m interested in web doveloper
-- 🌱 I’m currently learning Javascript and Css
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 08563446206
 
 <!---
 Aandhikads/Aandhikads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
